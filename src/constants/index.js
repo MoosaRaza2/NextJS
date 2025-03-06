@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import { 
   logo,
   nba,
@@ -46,7 +45,6 @@ export const navLinks = [
   },
   {
     id: "contact",
-<<<<<<< HEAD
     title: "nfl",
   },
   {
@@ -56,9 +54,6 @@ export const navLinks = [
   {
     id: "contact",
     title: "wwe",
-=======
-    title: "Projects",
->>>>>>> b071de0560e7159972716461c171f50765352322
   },
 ];
 export const sports = [
